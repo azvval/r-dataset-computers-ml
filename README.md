@@ -32,7 +32,3 @@ Notes:
 - `archive/AzraSevvalKupeli_VeriMadenciligi_Odev.R` — archived original script copy.
 - `LICENSE` — MIT license.
 - `.gitignore` — R ignores.
-
-## Notes
-- Reproducibility: consider using `renv` to lock package versions.
-- If you want me to add a small `install required packages` block into `main.R`, or save plots automatically when running non-interactively, I can add that in a follow-up commit.
