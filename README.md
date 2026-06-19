@@ -28,7 +28,6 @@ Notes:
 - Some plotting functions in the script (e.g. plotcluster, clusplot) will attempt to open graphical devices; when running non-interactively you may want to wrap plotting code to save figures to files.
 
 ## Files
-- `main.R` — single-file R analysis (moved/renamed from your original submission).
-- `archive/AzraSevvalKupeli_VeriMadenciligi_Odev.R` — archived original script copy.
+- `main.R` — single-file R analysis 
 - `LICENSE` — MIT license.
 - `.gitignore` — R ignores.
